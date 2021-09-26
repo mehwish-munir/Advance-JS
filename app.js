@@ -181,12 +181,21 @@
 // })
 // console.log(fname)
 
-let newarr = myStudent.filter(a=>a.age<14 && a.fees== 'no')
-console.log(newarr)
+// let newarr = myStudent.filter(a=>a.age<14 && a.fees== 'no')
+// console.log(newarr)
 
 
-
-
+// let age = 18
+// let myPromise = new Promise((resolve, reject)=>{
+//     if(age=18){
+//         resolve('you r allow');
+//     }else{
+//         reject('your are not allowed')
+//     }
+// });
+// myPromise 
+// .then(res => console.log(res))
+// .catch(err => console.log(err))
 
 
 
